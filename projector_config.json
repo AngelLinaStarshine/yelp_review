@@ -1,10 +1,10 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "Yelp Review Embeddings",
       "tensorShape": [1000, 50],
-      "tensorPath": "https://raw.githubusercontent.com/<username>/<repo>/main/vecs.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/<username>/<repo>/main/meta.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/AngelLinaStarshine/yelp_review/main/vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/AngelLinaStarshine/yelp_review/main/meta.tsv"
     }
   ]
 }

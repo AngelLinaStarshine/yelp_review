@@ -1,0 +1,14 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Yelp Embeddings",
+      "tensorShape": [1000, 50],  // Update based on your tensor's dimensions
+      "tensorPath": "https://raw.githubusercontent.com/AngelLinaStarshine/text-embeddings-yelp/main/vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/AngelLinaStarshine/text-embeddings-yelp/main/meta.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/AngelLinaStarshine/text-embeddings-yelp/main/optional.sprite.png",
+        "singleImageDim": [32, 32]
+      }
+    }
+  ]
+}
